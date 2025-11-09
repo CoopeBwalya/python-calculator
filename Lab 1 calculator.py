@@ -1,4 +1,4 @@
-#function adds two values
+
 def add(a,b):
     return a + b
 #Subtratracts two values
@@ -146,4 +146,5 @@ for btn in buttons:
 
 
 root.mainloop()
+
 
