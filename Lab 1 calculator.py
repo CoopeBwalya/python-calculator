@@ -5,7 +5,7 @@ def add(a,b):
 #Subtratracts two values
 def subtract(a, b):
     return a - b
-#Function multiplies two values
+#Function multiplies two values inint
 def multiply(a, b):
     return a * b
 #Function divides two values
