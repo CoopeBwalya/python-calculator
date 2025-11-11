@@ -90,7 +90,7 @@ def memory_subtract(val):
 #Function recalls memory
 def memory_recall():
     return memory
-#fuunction clears memory
+#function clears memory
 def memory_clear():
     global memory
     memory = 0.0
