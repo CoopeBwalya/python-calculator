@@ -1,11 +1,11 @@
-#Calculator
-
+#this calculator allows the user to perform arithmetic operations
+#function to add two values
 def add(a,b):
     return a + b
 #Subtratracts two values
 def subtract(a, b):
     return a - b
-#Function multiplies two values inint
+#Function multiplies two values 
 def multiply(a, b):
     return a * b
 #Function divides two values
@@ -147,6 +147,7 @@ for btn in buttons:
 
 
 root.mainloop()
+
 
 
 
