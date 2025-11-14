@@ -145,6 +145,7 @@ for btn in buttons:
     action = lambda x=text: append_value(x) if x not in ['C', '='] else (clear_display() if x == 'C' else calculate())
     tk.Button(root, text=text, width=5 * colspan, height=2, font=("Arial", 14), command=action).grid(row=row, column=col, columnspan=colspan, padx=5, pady=5)
 
+#End of code
 
 root.mainloop()
 
